@@ -1,0 +1,634 @@
+---
+theme: neversink
+colorSchema: light
+title: Research and Creative Work
+neversink_string: "Tate Carson, PhD"
+layout: cover
+color: white
+---
+
+# Research and Creative Work
+
+**From Participatory Mobile Music to Locative Sound Art**
+
+Tate Carson, PhD
+_Assistant Professor of Digital Sound Design_
+
+<!--
+Introduction; mobile music and locative sound art with smartphones.
+-->
+
+---
+layout: top-title-two-cols
+color: light
+align: l-lt-lt
+---
+
+:: title ::
+
+# The Smartphone as Artistic Platform
+
+:: left ::
+
+### UBIQUITY
+Open access
+
+### SENSORS
+GPS, gyroscope, microphone integration
+
+:: right ::
+
+### NETWORKS
+Distributed and collaborative music-making
+
+<!--
+A few things that make smartphones particularly interesting for music and sound art are their ubiquity, many people already have one in their pocket, the sensors that come with them, like GPS, gyroscope, and microphone, and the networks that they can connect to, allowing for the creation of collaborative digital musical experiences.
+-->
+
+---
+layout: default
+---
+
+# Research Overview
+
+| Work | Year |
+|------|------|
+| And the water receded | 2017 |
+| A more perfect union | 2017 |
+| Mesh Garden | 2018 |
+| Sounds Aware | 2019-2021 |
+| immaterial.cloud | 2020 |
+| Resonant Landscapes | 2023-Present |
+
+<!--
+I'll give an overview of the progression of my work over the past few years. These works have explored different aspects of mobile music and locative sound art, and have built on each other to create a body of work that explores the potential of the smartphone as an artistic platform.
+-->
+
+---
+layout: side-title
+color: stone-light
+align: rm-lm
+titlewidth: is-4
+---
+
+:: title ::
+
+# And the water receded
+**2017**
+
+:: content ::
+
+**Sonification of Hurricane Katrina**
+
+Networked Animated Notation
+
+<img src="/images/and-the-water.jpg" class="w-60 mt-4 rounded" />
+
+Stepping Stone to Participatory Works &rarr;
+
+<!--
+And the water receded is a musical piece that sonifies Hurricane Katrina data for three performers and electronics, condensing the storm's timeline from formation to landfall. The work stems from my personal hurricane experiences and uses animated smartphone-based notation to synchronize performers with electronics.
+
+"Musical Sonification of Hurricane Katrina and Its Aftermath." Master, Mills College, 2017.
+-->
+
+---
+layout: iframe
+url: https://www.youtube.com/embed/es_4M9t9K-4?si=N1-zD5QbFOD85nhW&start=330
+---
+
+<!--
+A performance at Mills College in 2017
+-->
+
+---
+layout: side-title
+color: stone-light
+align: lm-rm
+titlewidth: is-4
+---
+
+:: title ::
+
+# A more perfect union
+**2017**
+
+:: content ::
+
+<img src="/images/ampu.png" class="w-60 mb-4 rounded" />
+
+**Direct Audience Control**
+
+Smartphone Speaker Array
+
+<!--
+A More Perfect Union was conceived as a direct response to the limitations of And the Water Receded. Utilizing a smartphone speaker array, the work provided an immersive and interactive experience for the audience. Guided by audience evaluations, melodies evolved through a genetic algorithm.
+
+Carson, Tate. "A More Perfect Union: Composition with Audience-Controlled Smartphone Speaker Array and Evolutionary Computer Music." In Proceedings of the Web Audio Conference. Berlin, Germany, 2018.
+-->
+
+---
+layout: iframe
+url: https://player.vimeo.com/video/267062963
+---
+
+<!--
+This is a performance version of the work that took place at LSU Museum of Art on March 4, 2018
+-->
+
+---
+layout: section
+color: stone
+---
+
+# Breaking the Audience / Performer Divide
+
+<!--
+The audience transitions from passive listeners to active creators in A more perfect union, with all participants serving dual roles as both audience and performers. Participation requires no musical expertise - audience members simply express preferences by choosing to listen to or skip melodies. The work functions as a conceptual experiment focused on collective creation.
+-->
+
+---
+layout: image
+image: /images/amoreperfectunion/League_FtM_perf.jpg
+---
+
+<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded max-w-lg">
+
+The League of Automatic Music Composers (Perkis, Horton, and Bischoff, left to right) performing at Ft. Mason, San Francisco 1981.
+
+<span class="text-xs">photo: Peter Abramowitsch</span>
+</div>
+
+<!--
+A precursor to this concept of distributed control of a composition can be found in the early computer networked music groups The League of Automatic Music Composers and later The Hub. They created networks of computers that would send messages to other computers to create a rich texture of evolving sounds.
+-->
+
+---
+layout: image
+image: /images/amoreperfectunion/sims-galapagos.jpg
+---
+
+<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded max-w-lg">
+
+Karl Sims' Galapagos (1997)
+
+<span class="text-xs">photo: Ohtaka Takashi</span>
+</div>
+
+<!--
+Karl Sims' 1997 installation Galapagos consisted of several video screens, each displaying a different virtual organism. The installation allowed spectators to take part in evolving virtual organisms by choosing the amount of time they spent in front of one video screen versus another. The longer a viewer stood in front of a screen, the more he increased the fitness of that virtual organism.
+-->
+
+---
+layout: side-title
+color: stone-light
+align: rm-lm
+titlewidth: is-4
+---
+
+:: title ::
+
+# Mesh Garden
+**2018**
+
+:: content ::
+
+<img src="/images/mesh-garden-2.png" class="w-60 mb-4 rounded" />
+
+**Musical Game** | Gyroscope | Party Music
+
+<!--
+Mesh Garden is a participatory music game, using smartphones as speakers/controllers in social settings, where players interact with each other to create ambient music via a web interface. The system enables creative musical interaction through phone orientation and compass heading matching.
+
+"Mesh Garden: A Creative-Based Musical Game for Participatory Musical Performance." NIME, Porto Alegre, Brazil, 2019.
+-->
+
+---
+layout: iframe
+url: https://www.youtube.com/embed/_WQHdGdvO2E
+---
+
+<!--
+Here's a video of the piece in action. The video shows a group of people playing the game, interacting with each other.
+-->
+
+---
+layout: image
+image: /images/mesh-garden/Guitar-GH3-hammeron.0.webp
+---
+
+<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded max-w-lg">
+
+**Guitar Hero** - Mesh Garden contrasts with mimicry games like Guitar Hero which recreate existing songs
+
+<span class="text-xs">Photo: polygon.com</span>
+</div>
+
+<!--
+Mesh Garden contrasts with mimicry games like Guitar Hero which recreate existing songs. Core gameplay involves musical decision-making through phone orientation and player interaction, with mechanics designed for creating new music rather than reproducing predetermined scores. Following Thomas Studley's framework, Mesh Garden meets creative-based game criteria.
+-->
+
+---
+layout: side-title
+color: stone-light
+align: lm-rm
+titlewidth: is-4
+---
+
+:: title ::
+
+# Sounds Aware
+**2019 - 2021**
+
+:: content ::
+
+<img src="/images/sounds-aware.png" class="w-60 mb-4 rounded" />
+
+**Locative Audio Sound Art**
+
+An app for sharing sound walks
+
+<!--
+After Mesh Garden, I became interested in leveraging the mobility of smartphones to create experiences designed for outdoor environments and walking. This led to Sounds Aware, a locative audio sound art project that fostered a shared experience of the environment through sound.
+
+"Using Distributed Technology to Make Music in the Time of the Attention Economy." PhD, Louisiana State University, 2021.
+-->
+
+---
+layout: quote
+color: stone-light
+quotesize: text-xl
+authorsize: text-sm
+author: "David Dunn. Wilderness as Reentrant Form: Thoughts on the Future of Electronic Art and Nature. Leonardo, (4):377, 1988."
+---
+
+"To what extent might the technologies of communication, art and entertainment serve as 'prostheses' that would provide us with experiences of wilderness that would not only enrich our human identity but help us to preserve and expand the domain of the non-human world?"
+
+<!--
+Composer and artist David Dunn proposes that communication and art technologies can serve as "prostheses" to connect people with wilderness experiences. Sounds Aware exemplifies technology as a "prosthesis" for experiencing wilderness by using smartphones to connect users with natural soundscapes through sound walks, active listening, and decentralized sharing.
+-->
+
+---
+layout: image
+image: /images/sounds-aware-v2/ui-1.png
+---
+
+---
+layout: image
+image: /images/sounds-aware-v2/ui-2.png
+---
+
+<!--
+The app focuses on restoration of attention and ecological awareness by encouraging mindful listening and outdoor experiences.
+-->
+
+---
+layout: section
+color: stone
+---
+
+# Coming soon to AT Protocol (aka Bluesky)
+
+<!--
+I have plans to bring this back in a similar or slightly different form and release it on AT Protocol, the system that runs Bluesky.
+-->
+
+---
+layout: side-title
+color: stone-light
+align: rm-lm
+titlewidth: is-4
+---
+
+:: title ::
+
+# immaterial.cloud
+**2020**
+
+:: content ::
+
+<img src="/images/immaterial.png" class="w-60 mb-4 rounded" />
+
+**Collaborative Sound Art**
+
+peer-to-peer networking
+
+<!--
+For this project, I revisited the concept of collaborative music-making with smartphones, this time exploring the use of the phone's camera as a trigger for changes in sound. Networked smartphones form a temporary musical composition that could be set up anywhere.
+
+"Immaterial.Cloud: Using Peer-to-Peer Technologies for Music." Web Audio Conference, Barcelona, Spain, 2021.
+-->
+
+---
+layout: image
+image: /images/immaterialcloud2.png
+---
+
+<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded">
+
+Participants interacting with the work
+</div>
+
+<!--
+Users interact through motion (tracked by phone cameras), which triggers shared sound changes across connected devices. Each device is assigned one of four presets using granular synthesis.
+-->
+
+---
+layout: image
+image: /images/immaterialcloud/qi5jxtMLvuyjoAfMFJ6onDzEUQptFfu8cggWfDfms3Q.png
+---
+
+<!--
+A closeup image of the setup screen
+-->
+
+---
+layout: iframe
+url: https://player.vimeo.com/video/414630388
+---
+
+<!--
+A short demo of myself using the app
+-->
+
+---
+layout: side-title
+color: stone-light
+align: rm-lm
+titlewidth: is-4
+---
+
+:: title ::
+
+# Resonant Landscapes
+**2023-Present**
+
+:: content ::
+
+<img src="/images/frozen-lake.jpeg" class="w-60 mb-4 rounded" />
+
+**Locative Sound Art**
+
+Ambisonic Field Recording | GPS/Gyroscope
+
+<!--
+Resonant Landscapes is my most recent work. The piece uses ambisonic field recordings to create an immersive sound environment that responds to the listener's movement through space. By integrating GPS and gyroscope data from smartphones, the work transforms the listener's surroundings into a dynamic, interactive soundscape.
+
+Carson, Tate, and Carter Gordon. "Resonant Landscapes." Audio Mostly 2024, Milan, Italy, ACM, 2024. https://doi.org/10.1145/3678299.3678354.
+-->
+
+---
+layout: image
+image: /images/rl-screenshots/sd-state-parks.png
+---
+
+<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded">
+
+South Dakota State Parks
+</div>
+
+<!--
+You can see in this picture all of the state parks we recorded at. Carter was integral to this project, as I would not have been able to record all of these locations without his help.
+-->
+
+---
+layout: image
+image: /images/rl-screenshots.png
+---
+
+<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded">
+
+User Interactions
+</div>
+
+<!--
+Resonant Landscapes' audience webpage provides an interactive campus map with marked "listening spots" that correspond to state park locations. Users experience audio playback within 15-meter radius zones, with volume increasing as they approach centers. Visual feedback includes falling leaves animation that speeds up with proximity. The app uses smartphone sensors for body-oriented tracking.
+-->
+
+---
+layout: default
+---
+
+# Hybrid Place
+
+*Resonant Landscapes* creates a **hybrid place**, merging natural soundscapes with urban spaces through **ambisonic audio** and GPS technology.
+
+<!--
+The South Dakota state parks are projected onto DSU campus, creating a scaled, walkable geography. Because the app triggers field recordings at specific GPS coordinates, it blends natural soundscapes with real-time urban environments, creating a hybrid place. Encourages embodied listening. Informed by sound art, soundwalking, and soundscape studies.
+-->
+
+---
+layout: image
+image: /images/rl-screenshots/me-carter.png
+---
+
+<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded">
+
+Student Research
+</div>
+
+<!--
+Resonant Landscapes was developed in collaboration with a student at Dakota State University. The project provided an opportunity to engage with cutting-edge technologies and explore the creative possibilities of locative sound art.
+-->
+
+---
+layout: image
+image: /images/rl-screenshots/uni-mi.png
+---
+
+<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded">
+
+Resonant Landscapes @ UniMi
+</div>
+
+<!--
+As locative media art rather than site-specific art, Resonant Landscapes can be deployed anywhere by mapping state park coordinates onto new locations.
+-->
+
+---
+layout: section
+color: stone
+---
+
+# Resonant Landscapes Concert
+
+<!--
+In addition to using the ambisonic recordings in the Resonant Landscapes app, DSU faculty and students composed works that premiered during a public concert at the Madison Area Arts Council.
+-->
+
+---
+layout: image
+image: /images/rl-concert/landscape-poster.png
+---
+
+<!--
+Resonant Landscapes concert poster
+-->
+
+---
+layout: two-cols-title
+align: l-cm-cm
+---
+
+:: title ::
+&nbsp;
+
+:: left ::
+
+<img src="/images/rl-concert/me.png" class="w-full rounded" />
+
+:: right ::
+
+<img src="/images/rl-concert/daniel.png" class="w-full rounded" />
+
+<!--
+DSU faculty and students composed works that premiered during a public concert at the Madison Area Arts Council.
+-->
+
+---
+layout: image
+image: /images/rl-concert/kayla.png
+---
+
+<!--
+DSU faculty and students composed works that premiered during a public concert at the Madison Area Arts Council.
+-->
+
+---
+layout: image
+image: /images/rl-concert/jacob.png
+---
+
+<!--
+DSU faculty and students composed works that premiered during a public concert at the Madison Area Arts Council.
+-->
+
+---
+layout: side-title
+color: stone-light
+align: rm-lm
+titlewidth: is-4
+---
+
+:: title ::
+
+# Veins of the Earth
+**2024**
+
+:: content ::
+
+**Fixed Media**
+
+Multi-channel piece exploring geophonic and biophonic sounds
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1833817539&color=%233c7494&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+<!--
+The work I composed for this concert was a multi-channel fixed media piece, "Veins of the Earth," which explores geophonic and biophonic sounds to evoke a sense of connection between natural environments and the life they sustain.
+-->
+
+---
+layout: section
+color: stone
+---
+
+# Current Research
+
+---
+layout: top-title
+color: stone-light
+align: l
+---
+
+:: title ::
+
+# ReaMatch
+
+:: content ::
+
+### AI-Powered Sound Matching for REAPER
+
+- **Machine Learning for Sound Discovery** - Uses Google's VGGish model to analyze & match sounds
+- **Find Perceptually Similar Sounds Instantly** - 128-dimensional embeddings with cosine similarity
+- **Seamless Integration with REAPER** - Adds alternative takes to media items for quick auditioning
+
+<!--
+Uses Google's VGGish model to analyze and match sounds based on deep audio feature extraction. Converts sounds into 128-dimensional embeddings for precise similarity searches. Extracts onset strength, spectral centroid, sustain, reverb characteristics, and more. Fully embedded within REAPER's workflow.
+-->
+
+---
+layout: top-title
+color: stone-light
+align: l
+---
+
+:: title ::
+
+# Water's Sonic Signatures
+
+:: content ::
+
+### Computational Sound Studies & Ecological Awareness in Tarkovsky's Films
+
+- **Water as Cinematic & Ecological Motif** - Flow, decay, and renewal inform existential shifts
+- **Analyzing Sound in Solaris, Stalker, & Nostalghia** - MFCCs, spectral centroid, onset detection
+- **Computational Listening: MFCCs, Reverb, & Timbre** - New framework for studying media soundscapes
+
+<!--
+Tarkovsky's films use water beyond atmosphere, shaping narrative temporality, materiality, and ecological consciousness. Computational methods reveal patterns influencing ecological perception. This approach provides a new framework for studying media soundscapes in the context of climate and environmental crises.
+-->
+
+---
+layout: top-title
+color: stone-light
+align: l
+---
+
+:: title ::
+
+# South Dakota Sound Archive
+
+:: content ::
+
+### 2025
+
+- **Student Research Collaboration**
+- **Community Sound Engagement**
+- Captures ecological soundscapes and cultural heritage of South Dakota
+- Integrates the Resonant Landscapes app with GPS for overlaying soundscapes onto physical locations
+
+<!--
+My future research focuses on creating the DSU Digital Sound Archive, a project designed to capture the ecological soundscapes and cultural heritage of South Dakota and nearby regions. By integrating advanced field recording techniques and metadata, the archive will support interdisciplinary research. This initiative aligns with DSU's mission to expand research opportunities.
+-->
+
+---
+layout: default
+---
+
+# Bibliography
+
+<div class="text-xs leading-relaxed">
+
+- Carson, Tate. "A More Perfect Union: Composition with Audience-Controlled Smartphone Speaker Array and Evolutionary Computer Music." *Proceedings of the Web Audio Conference*. Berlin, Germany, 2018.
+- Carson, Tate. "Immaterial.Cloud: Using Peer-to-Peer Technologies for Music." *Proceedings of the Web Audio Conference*. Barcelona, Spain, 2021.
+- Carson, Tate. "Mesh Garden: A Creative-Based Musical Game for Participatory Musical Performance." *NIME*, 339-42. Porto Alegre, Brazil, 2019.
+- Carson, Tate. "Musical Sonification of Hurricane Katrina and Its Aftermath." Master, Mills College, 2017.
+- Carson, Tate. "On Ecocomposition: An Interview with Damian Keller." *Journal of Digital Media & Interaction* 3, no. 5 (2020): 133-42.
+- Carson, Tate. "Philosophical Underpinnings of Environmental Music." *ICMC*. Daegu, Korea, 2018.
+- Carson, Tate. "Sounds Aware: A Mobile App for Raising Awareness of Environmental Sound." *Proceedings of the Web Audio Conference*. Trondheim, Norway, 2019.
+- Carson, Tate. "Systems Thinking and Environmental Interaction in the Work of Tomas Saraceno and David Dunn." *ICMC*. New York, 2019.
+- Carson, Tate. "Teaching Video Game Sound: Balancing Technical Know-How with Sonic Creativity." *2023 ATMI/CMS National Conference*, Miami, Florida, 2023.
+- Carson, Tate. "Using Distributed Technology to Make Music in the Time of the Attention Economy." PhD, Louisiana State University, 2021.
+- Carson, Tate, and Carter Gordon. "Resonant Landscapes." *Audio Mostly 2024*, 525-32. Milan, Italy: ACM, 2024.
+- Marasco, Anthony T, Tate Carson, and Matthew A Bardin. "Designing Collaborative and Mediated Experiences with Networked Circuit-Bent Devices." *SIIDS*, 2020.
+
+</div>
+
+---
+layout: end
+color: stone
+---
+
+# Questions?
+
+tatecarson.com | tate.carson@pm.me

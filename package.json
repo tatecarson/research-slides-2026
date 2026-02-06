@@ -1,0 +1,28 @@
+{
+  "name": "research-slides-2026",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <img width=\"540\" src='.github/logo.png' /> </p>",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatecarson/research-slides-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tatecarson/research-slides-2026/issues"
+  },
+  "homepage": "https://github.com/tatecarson/research-slides-2026#readme",
+  "dependencies": {
+    "@slidev/cli": "^52.11.5",
+    "@slidev/theme-default": "^0.25.0",
+    "slidev-theme-neversink": "^0.4.1"
+  }
+}
