@@ -19,27 +19,35 @@ Introduction; mobile music and locative sound art with smartphones.
 -->
 
 ---
-layout: top-title-two-cols
+layout: top-title
 color: light
-align: l-lt-lt
+align: l
 ---
 
 :: title ::
 
 # The Smartphone as Artistic Platform
 
-:: left ::
+:: content ::
 
-### UBIQUITY
-Open access
+<div class="grid grid-cols-3 gap-12 mt-8">
 
-### SENSORS
-GPS, gyroscope, microphone integration
+<div class="text-center p-6 border border-gray-200 rounded-lg">
+<h3 class="text-2xl font-bold mb-4">UBIQUITY</h3>
+<p>Open access</p>
+</div>
 
-:: right ::
+<div class="text-center p-6 border border-gray-200 rounded-lg">
+<h3 class="text-2xl font-bold mb-4">SENSORS</h3>
+<p>GPS, gyroscope, microphone integration</p>
+</div>
 
-### NETWORKS
-Distributed and collaborative music-making
+<div class="text-center p-6 border border-gray-200 rounded-lg">
+<h3 class="text-2xl font-bold mb-4">NETWORKS</h3>
+<p>Distributed and collaborative music-making</p>
+</div>
+
+</div>
 
 <!--
 A few things that make smartphones particularly interesting for music and sound art are their ubiquity, many people already have one in their pocket, the sensors that come with them, like GPS, gyroscope, and microphone, and the networks that they can connect to, allowing for the creation of collaborative digital musical experiences.
@@ -104,7 +112,7 @@ A performance at Mills College in 2017
 ---
 layout: side-title
 color: stone-light
-align: lm-rm
+align: lm-lm
 titlewidth: is-4
 ---
 
@@ -115,7 +123,7 @@ titlewidth: is-4
 
 :: content ::
 
-<img src="/images/ampu.png" class="w-60 mb-4 rounded" />
+<img src="/images/ampu.png" class="w-80 mb-4 rounded" />
 
 **Direct Audience Control**
 
@@ -143,6 +151,8 @@ color: stone
 
 # Breaking the Audience / Performer Divide
 
+From passive listeners to active creators
+
 <!--
 The audience transitions from passive listeners to active creators in A more perfect union, with all participants serving dual roles as both audience and performers. Participation requires no musical expertise - audience members simply express preferences by choosing to listen to or skip melodies. The work functions as a conceptual experiment focused on collective creation.
 -->
@@ -152,7 +162,7 @@ layout: image
 image: /images/amoreperfectunion/League_FtM_perf.jpg
 ---
 
-<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded max-w-lg">
+<div class="absolute bottom-4 left-4 bg-black/80 text-white p-4 rounded max-w-lg">
 
 The League of Automatic Music Composers (Perkis, Horton, and Bischoff, left to right) performing at Ft. Mason, San Francisco 1981.
 
@@ -168,7 +178,7 @@ layout: image
 image: /images/amoreperfectunion/sims-galapagos.jpg
 ---
 
-<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded max-w-lg">
+<div class="absolute bottom-4 left-4 bg-black/80 text-white p-4 rounded max-w-lg">
 
 Karl Sims' Galapagos (1997)
 
@@ -193,7 +203,7 @@ titlewidth: is-4
 
 :: content ::
 
-<img src="/images/mesh-garden-2.png" class="w-60 mb-4 rounded" />
+<img src="/images/mesh-garden-2.png" class="w-80 mb-4 rounded" />
 
 **Musical Game** | Gyroscope | Party Music
 
@@ -217,7 +227,7 @@ layout: image
 image: /images/mesh-garden/Guitar-GH3-hammeron.0.webp
 ---
 
-<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded max-w-lg">
+<div class="absolute bottom-4 left-4 bg-black/80 text-white p-4 rounded max-w-lg">
 
 **Guitar Hero** - Mesh Garden contrasts with mimicry games like Guitar Hero which recreate existing songs
 
@@ -231,7 +241,7 @@ Mesh Garden contrasts with mimicry games like Guitar Hero which recreate existin
 ---
 layout: side-title
 color: stone-light
-align: lm-rm
+align: lm-lm
 titlewidth: is-4
 ---
 
@@ -242,7 +252,7 @@ titlewidth: is-4
 
 :: content ::
 
-<img src="/images/sounds-aware.png" class="w-60 mb-4 rounded" />
+<img src="/images/sounds-aware.png" class="w-80 mb-4 rounded" />
 
 **Locative Audio Sound Art**
 
@@ -269,14 +279,20 @@ Composer and artist David Dunn proposes that communication and art technologies 
 -->
 
 ---
-layout: image
-image: /images/sounds-aware-v2/ui-1.png
+layout: default
 ---
 
+<div class="flex justify-center items-center h-full">
+<img src="/images/sounds-aware-v2/ui-1.png" class="max-h-96 rounded" />
+</div>
+
 ---
-layout: image
-image: /images/sounds-aware-v2/ui-2.png
+layout: default
 ---
+
+<div class="flex justify-center items-center h-full">
+<img src="/images/sounds-aware-v2/ui-2.png" class="max-h-96 rounded" />
+</div>
 
 <!--
 The app focuses on restoration of attention and ecological awareness by encouraging mindful listening and outdoor experiences.
@@ -307,7 +323,7 @@ titlewidth: is-4
 
 :: content ::
 
-<img src="/images/immaterial.png" class="w-60 mb-4 rounded" />
+<img src="/images/immaterial.png" class="w-80 mb-4 rounded" />
 
 **Collaborative Sound Art**
 
@@ -320,11 +336,11 @@ For this project, I revisited the concept of collaborative music-making with sma
 -->
 
 ---
-layout: image
-image: /images/immaterialcloud2.png
+layout: default
 ---
 
-<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded">
+<div class="flex flex-col items-center justify-center h-full">
+<img src="/images/immaterialcloud2.png" class="max-h-80 rounded mb-4" />
 
 Participants interacting with the work
 </div>
@@ -334,9 +350,12 @@ Users interact through motion (tracked by phone cameras), which triggers shared 
 -->
 
 ---
-layout: image
-image: /images/immaterialcloud/qi5jxtMLvuyjoAfMFJ6onDzEUQptFfu8cggWfDfms3Q.png
+layout: default
 ---
+
+<div class="flex justify-center items-center h-full">
+<img src="/images/immaterialcloud/qi5jxtMLvuyjoAfMFJ6onDzEUQptFfu8cggWfDfms3Q.png" class="max-h-96 rounded" />
+</div>
 
 <!--
 A closeup image of the setup screen
@@ -365,7 +384,7 @@ titlewidth: is-4
 
 :: content ::
 
-<img src="/images/frozen-lake.jpeg" class="w-60 mb-4 rounded" />
+<img src="/images/frozen-lake.jpeg" class="w-80 mb-4 rounded" />
 
 **Locative Sound Art**
 
@@ -382,7 +401,7 @@ layout: image
 image: /images/rl-screenshots/sd-state-parks.png
 ---
 
-<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded">
+<div class="absolute bottom-4 left-4 bg-black/80 text-white p-4 rounded">
 
 South Dakota State Parks
 </div>
@@ -396,7 +415,7 @@ layout: image
 image: /images/rl-screenshots.png
 ---
 
-<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded">
+<div class="absolute bottom-4 left-4 bg-black/80 text-white p-4 rounded">
 
 User Interactions
 </div>
@@ -406,7 +425,8 @@ Resonant Landscapes' audience webpage provides an interactive campus map with ma
 -->
 
 ---
-layout: default
+layout: section
+color: stone-light
 ---
 
 # Hybrid Place
@@ -422,7 +442,7 @@ layout: image
 image: /images/rl-screenshots/me-carter.png
 ---
 
-<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded">
+<div class="absolute bottom-4 left-4 bg-black/80 text-white p-4 rounded">
 
 Student Research
 </div>
@@ -436,7 +456,7 @@ layout: image
 image: /images/rl-screenshots/uni-mi.png
 ---
 
-<div class="absolute bottom-4 left-4 bg-white/80 p-4 rounded">
+<div class="absolute bottom-4 left-4 bg-black/80 text-white p-4 rounded">
 
 Resonant Landscapes @ UniMi
 </div>
@@ -457,9 +477,12 @@ In addition to using the ambisonic recordings in the Resonant Landscapes app, DS
 -->
 
 ---
-layout: image
-image: /images/rl-concert/landscape-poster.png
+layout: default
 ---
+
+<div class="flex justify-center items-center h-full">
+<img src="/images/rl-concert/landscape-poster.png" class="max-h-96 rounded shadow-lg" />
+</div>
 
 <!--
 Resonant Landscapes concert poster
