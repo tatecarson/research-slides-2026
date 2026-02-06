@@ -348,8 +348,10 @@ Users interact through motion (tracked by phone cameras), which triggers shared 
 layout: default
 ---
 
-<div class="flex justify-center items-center h-full">
+<div class="flex flex-col justify-center items-center h-full">
 <img src="/images/immaterialcloud/qi5jxtMLvuyjoAfMFJ6onDzEUQptFfu8cggWfDfms3Q.png" class="max-h-96 rounded" />
+
+A closeup of the setup screen, showing the peer-to-peer connection process and preset selection.
 </div>
 
 <!--
@@ -392,11 +394,11 @@ Carson, Tate, and Carter Gordon. "Resonant Landscapes." Audio Mostly 2024, Milan
 -->
 
 ---
-layout: image
-image: /images/rl-screenshots/sd-state-parks.png
+layout: default
 ---
 
-<div class="absolute bottom-4 left-4 bg-black/80 text-white p-4 rounded">
+<div class="flex flex-col justify-center items-center h-full">
+<img src="/images/rl-screenshots/sd-state-parks.png" class="max-h-120 rounded" />
 
 South Dakota State Parks
 </div>
@@ -406,11 +408,11 @@ You can see in this picture all of the state parks we recorded at. Carter was in
 -->
 
 ---
-layout: image
-image: /images/rl-screenshots.png
+layout: default
 ---
 
-<div class="absolute bottom-4 left-4 bg-black/80 text-white p-4 rounded">
+<div class="flex flex-col justify-center items-center h-full">
+<img src="/images/rl-screenshots.png" class="max-h-120 rounded" />
 
 User Interactions
 </div>
@@ -420,24 +422,27 @@ Resonant Landscapes' audience webpage provides an interactive campus map with ma
 -->
 
 ---
-layout: section
+layout: default
 color: indigo
 ---
 
-# Hybrid Place
-
-*Resonant Landscapes* creates a **hybrid place**, merging natural soundscapes with urban spaces through **ambisonic audio** and GPS technology.
+<div class="relative h-full">
+<h1 class="absolute top-8 left-16 text-8xl font-black tracking-tight">Hybrid</h1>
+<h1 class="absolute top-36 right-20 text-8xl font-black tracking-tight">Place</h1>
+<p class="absolute bottom-28 left-16 max-w-sm text-xl leading-relaxed"><em>Resonant Landscapes</em> creates a <strong>hybrid place</strong>, merging natural soundscapes with urban spaces</p>
+<p class="absolute bottom-12 right-20 max-w-sm text-xl leading-relaxed text-right">through <strong>ambisonic audio</strong> and GPS technology</p>
+</div>
 
 <!--
 The South Dakota state parks are projected onto DSU campus, creating a scaled, walkable geography. Because the app triggers field recordings at specific GPS coordinates, it blends natural soundscapes with real-time urban environments, creating a hybrid place. Encourages embodied listening. Informed by sound art, soundwalking, and soundscape studies.
 -->
 
 ---
-layout: image
-image: /images/rl-screenshots/me-carter.png
+layout: default
 ---
 
-<div class="absolute bottom-4 left-4 bg-black/80 text-white p-4 rounded">
+<div class="flex flex-col justify-center items-center h-full">
+<img src="/images/rl-screenshots/me-carter.png" class="max-h-120 rounded" />
 
 Student Research
 </div>
@@ -506,6 +511,7 @@ DSU faculty and students composed works that premiered during a public concert a
 ---
 layout: image
 image: /images/rl-concert/kayla.png
+backgroundSize: contain
 ---
 
 <!--
@@ -515,6 +521,7 @@ DSU faculty and students composed works that premiered during a public concert a
 ---
 layout: image
 image: /images/rl-concert/jacob.png
+backgroundSize: contain
 ---
 
 <!--
@@ -553,70 +560,121 @@ color: navy
 # Current Research
 
 ---
-layout: top-title
-color: purple-light
-align: l
+layout: side-title
+color: rose-light
+align: rm-lm
+titlewidth: is-4
 ---
 
 :: title ::
 
-# ReaMatch
+# MatchLab
+**2025-Present**
 
 :: content ::
 
-### AI-Powered Sound Matching for REAPER
+**Semantic Sound Search Plugin**
 
-- **Machine Learning for Sound Discovery** - Uses Google's VGGish model to analyze & match sounds
-- **Find Perceptually Similar Sounds Instantly** - 128-dimensional embeddings with cosine similarity
-- **Seamless Integration with REAPER** - Adds alternative takes to media items for quick auditioning
+- Search, discover, and modify sounds by description or reference audio
+- Runs locally, integrates with DAWs
+- HCI research internship to ground design in professional workflows
 
 <!--
-Uses Google's VGGish model to analyze and match sounds based on deep audio feature extraction. Converts sounds into 128-dimensional embeddings for precise similarity searches. Extracts onset strength, spectral centroid, sustain, reverb characteristics, and more. Fully embedded within REAPER's workflow.
+MatchLab is a plugin for semantic sound search. It lets sound designers search, discover, and modify sounds based on how they describe them or by similarity to a reference audio. It runs locally and integrates with digital audio workstations. The internship is a 16-week HCI research effort to make sure MatchLab is built around real professional workflows.
 -->
 
 ---
 layout: top-title
-color: cyan-light
+color: rose-light
 align: l
 ---
 
 :: title ::
 
-# Water's Sonic Signatures
+# MatchLab Research Tracks
 
 :: content ::
 
-### Computational Sound Studies & Ecological Awareness in Tarkovsky's Films
+<div class="grid grid-cols-2 gap-4 mt-4 text-sm">
 
-- **Water as Cinematic & Ecological Motif** - Flow, decay, and renewal inform existential shifts
-- **Analyzing Sound in Solaris, Stalker, & Nostalghia** - MFCCs, spectral centroid, onset detection
-- **Computational Listening: MFCCs, Reverb, & Timbre** - New framework for studying media soundscapes
+<div class="border rounded p-3">
+<strong>1. Competitive Analysis</strong><br/>
+Document existing tools (Soundly, Splice, Sononym, AudioStellar, Freesound, etc.) to identify feature gaps
+</div>
+
+<div class="border rounded p-3">
+<strong>2. User Research</strong><br/>
+Interviews and contextual inquiry with sound designers to build personas and workflow diagrams
+</div>
+
+<div class="border rounded p-3">
+<strong>3. Test Dataset Curation</strong><br/>
+Annotated sound collections with ground-truth similarity judgments for algorithm evaluation
+</div>
+
+<div class="border rounded p-3">
+<strong>4. Literature Review</strong><br/>
+Survey ISMIR, NIME, CHI/UIST, AES on audio similarity, semantic retrieval, and creative tool evaluation
+</div>
+
+</div>
 
 <!--
-Tarkovsky's films use water beyond atmosphere, shaping narrative temporality, materiality, and ecological consciousness. Computational methods reveal patterns influencing ecological perception. This approach provides a new framework for studying media soundscapes in the context of climate and environmental crises.
+The internship is structured around four research tracks. Competitive analysis systematically documents existing sound search tools to identify feature gaps and opportunities. User research involves interviews and contextual inquiry with sound designers to build personas and workflow diagrams. Test dataset curation builds annotated sound collections with ground-truth similarity judgments. And the literature review surveys academic work on audio similarity, semantic retrieval, and creative tool evaluation.
 -->
 
 ---
-layout: top-title
-color: green-light
-align: l
+layout: side-title
+color: slate-light
+align: rm-lm
+titlewidth: is-4
 ---
 
 :: title ::
 
-# South Dakota Sound Archive
+# Drift
+**2025-2026**
 
 :: content ::
 
-### 2025
+<img src="/images/drift/hanging-sculpture.jpeg" class="w-60 mb-4 rounded shadow-lg" />
 
-- **Student Research Collaboration**
-- **Community Sound Engagement**
-- Captures ecological soundscapes and cultural heritage of South Dakota
-- Integrates the Resonant Landscapes app with GPS for overlaying soundscapes onto physical locations
+**Sculptural Sound Art**
+
+White noise machines reimagined as networked, resonant instruments
 
 <!--
-My future research focuses on creating the DSU Digital Sound Archive, a project designed to capture the ecological soundscapes and cultural heritage of South Dakota and nearby regions. By integrating advanced field recording techniques and metadata, the archive will support interdisciplinary research. This initiative aligns with DSU's mission to expand research opportunities.
+Drift is a sculptural sound art project that reconceptualizes the white noise machine as a platform for creative expression. Each sculpture slowly shifts from noise toward emergent musical patterns, inviting deep listening and reflection on sonic self-control. The project draws on Mack Hagood's theory of Orphic Media — technologies that modify perception and experience. Collaboration with Tim Murray on design and fabrication.
+-->
+
+---
+layout: two-cols-title
+color: slate-light
+align: l-lm-lm
+---
+
+:: title ::
+
+# Drift — Process & Outcomes
+
+:: left ::
+
+<img src="/images/drift/assembly.jpeg" class="w-full rounded shadow-lg" />
+
+:: right ::
+
+**Materials**: Microcontrollers, actuators, resonant wood, ceramic, brass, glass
+
+**Outcomes**:
+- Four installation-ready sculptures
+- DSU gallery premiere + regional exhibitions
+- Peer-reviewed paper (ISEA/NIME/Leonardo)
+- Process documentation
+
+**Collaborator**: Tim Murray (design & fabrication)
+
+<!--
+The project integrates sound design and programming with physical design and fabrication. Using microcontrollers and actuators with tuned resonant materials, the sculptures create a dynamic soundscape that visitors move through. The work aligns with sound sculpture artists like Zimoun, Trimpin, and Eliasson. Currently in the fabrication phase with DSU gallery installation planned for spring 2026.
 -->
 
 ---
