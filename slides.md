@@ -388,7 +388,7 @@ titlewidth: is-4
 Ambisonic Field Recording | GPS/Gyroscope
 
 <!--
-Resonant Landscapes is my most recent work. The piece uses ambisonic field recordings to create an immersive sound environment that responds to the listener's movement through space. By integrating GPS and gyroscope data from smartphones, the work transforms the listener's surroundings into a dynamic, interactive soundscape.
+Resonant Landscapes is my most recent work, developed in collaboration with undergraduate student Carter Gordon. The piece uses ambisonic field recordings to create an immersive sound environment that responds to the listener's movement through space. By integrating GPS and gyroscope data from smartphones, the work transforms the listener's surroundings into a dynamic, interactive soundscape.
 
 Carson, Tate, and Carter Gordon. "Resonant Landscapes." Audio Mostly 2024, Milan, Italy, ACM, 2024. https://doi.org/10.1145/3678299.3678354.
 -->
@@ -444,11 +444,11 @@ layout: default
 <div class="flex flex-col justify-center items-center h-full">
 <img src="/images/rl-screenshots/me-carter.png" class="max-h-120 rounded" />
 
-Student Research
+Undergraduate Research — Carter Gordon
 </div>
 
 <!--
-Resonant Landscapes was developed in collaboration with a student at Dakota State University. The project provided an opportunity to engage with cutting-edge technologies and explore the creative possibilities of locative sound art.
+Resonant Landscapes was developed in collaboration with Carter Gordon, an undergraduate student at Dakota State University. Carter was involved in the full lifecycle of the project — from ambisonic field recording across South Dakota state parks to web development and user testing. He co-authored the peer-reviewed paper published at Audio Mostly 2024 (ACM). This kind of hands-on, publication-track undergraduate research mentoring is central to how I approach working with students.
 -->
 
 ---
@@ -505,7 +505,7 @@ align: l-cm-cm
 <img src="/images/rl-concert/daniel.png" class="w-full rounded" />
 
 <!--
-DSU faculty and students composed works that premiered during a public concert at the Madison Area Arts Council.
+Faculty colleagues Daniel and Kayla also composed works for the concert using the ambisonic field recordings from the state parks.
 -->
 
 ---
@@ -515,7 +515,7 @@ backgroundSize: contain
 ---
 
 <!--
-DSU faculty and students composed works that premiered during a public concert at the Madison Area Arts Council.
+Kayla performing her composition at the Madison Area Arts Council concert.
 -->
 
 ---
@@ -525,7 +525,7 @@ backgroundSize: contain
 ---
 
 <!--
-DSU faculty and students composed works that premiered during a public concert at the Madison Area Arts Council.
+Jacob was an undergraduate student who composed a piece using the ambisonic field recordings from the state parks. While Carter was involved in the full Resonant Landscapes project, Jacob's participation in the concert shows how the project created multiple entry points for student engagement — from long-term research collaboration to focused creative work with shared materials.
 -->
 
 ---
@@ -577,10 +577,10 @@ titlewidth: is-4
 
 - Search, discover, and modify sounds by description or reference audio
 - Runs locally, integrates with DAWs
-- HCI research internship to ground design in professional workflows
+- Undergraduate research interns: Owen and Calvin (16-week HCI internship)
 
 <!--
-MatchLab is a plugin for semantic sound search. It lets sound designers search, discover, and modify sounds based on how they describe them or by similarity to a reference audio. It runs locally and integrates with digital audio workstations. The internship is a 16-week HCI research effort to make sure MatchLab is built around real professional workflows.
+MatchLab is a plugin for semantic sound search. It lets sound designers search, discover, and modify sounds based on how they describe them or by similarity to a reference audio. It runs locally and integrates with digital audio workstations. Owen and Calvin, two undergraduate students, are working on a 16-week HCI research internship to ground the design in real professional workflows — conducting competitive analysis, user interviews, and building annotated test datasets.
 -->
 
 ---
