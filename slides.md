@@ -4,7 +4,7 @@ colorSchema: light
 title: Research and Creative Work
 neversink_string: "Tate Carson, PhD"
 layout: cover
-color: white
+color: navy
 ---
 
 # Research and Creative Work
@@ -20,7 +20,7 @@ Introduction; mobile music and locative sound art with smartphones.
 
 ---
 layout: top-title
-color: light
+color: sky-light
 align: l
 ---
 
@@ -30,21 +30,21 @@ align: l
 
 :: content ::
 
-<div class="grid grid-cols-3 gap-12 mt-8">
+<div class="flex flex-col gap-8 mt-8">
 
-<div class="text-center p-6 border border-gray-200 rounded-lg">
-<h3 class="text-2xl font-bold mb-4">UBIQUITY</h3>
-<p>Open access</p>
+<div class="flex items-center gap-8 ml-48">
+<span class="text-2xl font-bold border-2 border-current px-6 py-3 whitespace-nowrap">UBIQUITY</span>
+<span class="text-xl">Open access</span>
 </div>
 
-<div class="text-center p-6 border border-gray-200 rounded-lg">
-<h3 class="text-2xl font-bold mb-4">SENSORS</h3>
-<p>GPS, gyroscope, microphone integration</p>
+<div class="flex items-center gap-8 ml-8">
+<span class="text-2xl font-bold border-2 border-current px-6 py-3 whitespace-nowrap">SENSORS</span>
+<span class="text-xl">GPS, gyroscope, microphone integration</span>
 </div>
 
-<div class="text-center p-6 border border-gray-200 rounded-lg">
-<h3 class="text-2xl font-bold mb-4">NETWORKS</h3>
-<p>Distributed and collaborative music-making</p>
+<div class="flex items-center gap-8 ml-28">
+<span class="text-2xl font-bold border-2 border-current px-6 py-3 whitespace-nowrap">NETWORKS</span>
+<span class="text-xl">Distributed and collaborative music-making</span>
 </div>
 
 </div>
@@ -74,7 +74,7 @@ I'll give an overview of the progression of my work over the past few years. The
 
 ---
 layout: side-title
-color: stone-light
+color: cyan-light
 align: rm-lm
 titlewidth: is-4
 ---
@@ -111,7 +111,7 @@ A performance at Mills College in 2017
 
 ---
 layout: side-title
-color: stone-light
+color: amber-light
 align: lm-lm
 titlewidth: is-4
 ---
@@ -146,7 +146,7 @@ This is a performance version of the work that took place at LSU Museum of Art o
 
 ---
 layout: section
-color: stone
+color: amber
 ---
 
 # Breaking the Audience / Performer Divide
@@ -191,7 +191,7 @@ Karl Sims' 1997 installation Galapagos consisted of several video screens, each 
 
 ---
 layout: side-title
-color: stone-light
+color: emerald-light
 align: rm-lm
 titlewidth: is-4
 ---
@@ -203,9 +203,10 @@ titlewidth: is-4
 
 :: content ::
 
-<img src="/images/mesh-garden-2.png" class="w-80 mb-4 rounded" />
+<img src="/images/mesh-garden-2.png" class="w-120 mb-4 rounded" />
 
 **Musical Game** | Gyroscope | Party Music
+
 
 <!--
 Mesh Garden is a participatory music game, using smartphones as speakers/controllers in social settings, where players interact with each other to create ambient music via a web interface. The system enables creative musical interaction through phone orientation and compass heading matching.
@@ -240,7 +241,7 @@ Mesh Garden contrasts with mimicry games like Guitar Hero which recreate existin
 
 ---
 layout: side-title
-color: stone-light
+color: teal-light
 align: lm-lm
 titlewidth: is-4
 ---
@@ -252,7 +253,7 @@ titlewidth: is-4
 
 :: content ::
 
-<img src="/images/sounds-aware.png" class="w-80 mb-4 rounded" />
+<img src="/images/sounds-aware.png" class="w-120 mb-4 rounded" />
 
 **Locative Audio Sound Art**
 
@@ -266,7 +267,7 @@ After Mesh Garden, I became interested in leveraging the mobility of smartphones
 
 ---
 layout: quote
-color: stone-light
+color: teal-light
 quotesize: text-xl
 authorsize: text-sm
 author: "David Dunn. Wilderness as Reentrant Form: Thoughts on the Future of Electronic Art and Nature. Leonardo, (4):377, 1988."
@@ -282,36 +283,30 @@ Composer and artist David Dunn proposes that communication and art technologies 
 layout: default
 ---
 
-<div class="flex justify-center items-center h-full">
+<div class="flex flex-col justify-center items-center h-full">
 <img src="/images/sounds-aware-v2/ui-1.png" class="max-h-96 rounded" />
+
+Exploring Walks
 </div>
 
 ---
 layout: default
 ---
 
-<div class="flex justify-center items-center h-full">
+<div class="flex flex-col justify-center items-center h-full">
 <img src="/images/sounds-aware-v2/ui-2.png" class="max-h-96 rounded" />
+
+Listening to a Walk
 </div>
 
 <!--
 The app focuses on restoration of attention and ecological awareness by encouraging mindful listening and outdoor experiences.
 -->
 
----
-layout: section
-color: stone
----
-
-# Coming soon to AT Protocol (aka Bluesky)
-
-<!--
-I have plans to bring this back in a similar or slightly different form and release it on AT Protocol, the system that runs Bluesky.
--->
 
 ---
 layout: side-title
-color: stone-light
+color: violet-light
 align: rm-lm
 titlewidth: is-4
 ---
@@ -323,7 +318,7 @@ titlewidth: is-4
 
 :: content ::
 
-<img src="/images/immaterial.png" class="w-80 mb-4 rounded" />
+<img src="/images/immaterial.png" class="w-120 mb-4 rounded" />
 
 **Collaborative Sound Art**
 
@@ -372,7 +367,7 @@ A short demo of myself using the app
 
 ---
 layout: side-title
-color: stone-light
+color: indigo-light
 align: rm-lm
 titlewidth: is-4
 ---
@@ -426,7 +421,7 @@ Resonant Landscapes' audience webpage provides an interactive campus map with ma
 
 ---
 layout: section
-color: stone-light
+color: indigo
 ---
 
 # Hybrid Place
@@ -467,7 +462,7 @@ As locative media art rather than site-specific art, Resonant Landscapes can be 
 
 ---
 layout: section
-color: stone
+color: indigo
 ---
 
 # Resonant Landscapes Concert
@@ -528,7 +523,7 @@ DSU faculty and students composed works that premiered during a public concert a
 
 ---
 layout: side-title
-color: stone-light
+color: emerald-light
 align: rm-lm
 titlewidth: is-4
 ---
@@ -552,14 +547,14 @@ The work I composed for this concert was a multi-channel fixed media piece, "Vei
 
 ---
 layout: section
-color: stone
+color: navy
 ---
 
 # Current Research
 
 ---
 layout: top-title
-color: stone-light
+color: purple-light
 align: l
 ---
 
@@ -581,7 +576,7 @@ Uses Google's VGGish model to analyze and match sounds based on deep audio featu
 
 ---
 layout: top-title
-color: stone-light
+color: cyan-light
 align: l
 ---
 
@@ -603,7 +598,7 @@ Tarkovsky's films use water beyond atmosphere, shaping narrative temporality, ma
 
 ---
 layout: top-title
-color: stone-light
+color: green-light
 align: l
 ---
 
@@ -649,7 +644,7 @@ layout: default
 
 ---
 layout: end
-color: stone
+color: navy
 ---
 
 # Questions?
