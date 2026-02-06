@@ -1,0 +1,38 @@
+/* FILE: themes/brutalist.css */
+
+body {
+    font-family: "Courier New", monospace;
+    background-color: #f0f0f0;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+notes {
+    display: block;
+    margin-top: 20px;
+    font-family: "Courier New", monospace;
+    font-size: 16px;
+    color: #333;
+    border-top: 2px solid #000;
+    padding-top: 10px;
+    text-transform: none;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    border-bottom: 4px solid #000;
+}
+
+a:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+code {
+    background-color: #000;
+    color: #fff;
+    padding: 2px 6px;
+    font-family: "Courier New", monospace;
+}
