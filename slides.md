@@ -644,7 +644,29 @@ titlewidth: is-4
 White noise machines reimagined as networked, resonant instruments
 
 <!--
-Drift is a sculptural sound art project that reconceptualizes the white noise machine as a platform for creative expression. Each sculpture slowly shifts from noise toward emergent musical patterns, inviting deep listening and reflection on sonic self-control. The project draws on Mack Hagood's theory of Orphic Media — technologies that modify perception and experience. Collaboration with Tim Murray on design and fabrication.
+Drift is a sculptural sound art project grounded in Mack Hagood's theory of Orphic Media — technologies designed to modify sensory perception and shape experience. White noise machines are a prime example: devices people use to control their sonic environment. Drift reconceptualizes this technology as a platform for creative expression, building sculptures that slowly shift from noise toward emergent musical patterns. The work invites deep listening and asks: what happens when we relinquish sonic self-control? Collaboration with Tim Murray (sculpture and fabrication) and funded through a DSU Faculty Research Initiative grant.
+-->
+
+---
+layout: two-cols-title
+color: slate-light
+align: l-lm-lm
+---
+
+:: title ::
+
+# Drift — Fabrication
+
+:: left ::
+
+<img src="/images/drift/routing.jpeg" class="h-110 rounded shadow-lg" />
+
+:: right ::
+
+<img src="/images/drift/components.jpeg" class="h-110 rounded shadow-lg" />
+
+<!--
+The fabrication process is central to the project's interdisciplinary nature. Tim Murray fabricates resonant wood components — concentric rings designed to vibrate and amplify sound from embedded actuators. Each sculpture's form is determined by its acoustic properties: the wood species, thickness, and curvature all shape the timbre. This integration of craft, acoustics, and computation puts Drift in dialogue with sound sculptors like Zimoun's mechanical installations, Trimpin's kinetic instruments, and Olafur Eliasson's immersive sensory environments.
 -->
 
 ---
@@ -674,7 +696,33 @@ align: l-lm-lm
 **Collaborator**: Tim Murray (design & fabrication)
 
 <!--
-The project integrates sound design and programming with physical design and fabrication. Using microcontrollers and actuators with tuned resonant materials, the sculptures create a dynamic soundscape that visitors move through. The work aligns with sound sculpture artists like Zimoun, Trimpin, and Eliasson. Currently in the fabrication phase with DSU gallery installation planned for spring 2026.
+The finished sculptures function as what Hagood calls Orphic Media in reverse — instead of masking sound to maintain control, they surrender control, letting noise gradually organize into music through algorithmic processes. Each sculpture contains microcontrollers driving actuators that excite the resonant materials, creating evolving soundscapes visitors move through. The project integrates sound design, programming, and physical fabrication. Currently in fabrication with DSU gallery installation planned for spring 2026.
+-->
+
+---
+layout: side-title
+color: navy-light
+align: rm-lm
+titlewidth: is-4
+---
+
+:: title ::
+
+# Future Directions
+
+:: content ::
+
+**Place-Based Sound Art & Ecological Documentation**
+
+- Long-duration field recording with multi-mic approaches (stereo, hydrophone, contact mics)
+- Paired digital + physical outputs: interactive map-based websites and sculptural installations with embedded speakers and sensors
+- Interdisciplinary collaboration across sound, fabrication, and ecological research
+- Student involvement in field recording, data collection, web development, and installation design
+
+*Example: Above and Below — a proposed year-long soundmap of the Big Sioux River using this approach*
+
+<!--
+My research is moving toward place-based sound art that documents specific ecologies over extended time periods. The approach pairs digital and physical outputs — interactive web-based soundmaps alongside sculptural installations with embedded speakers and proximity sensors. A current example is Above and Below, a proposed year-long documentation of the Big Sioux River Greenway using stereo, hydrophone, and contact microphones to capture above-water, underwater, and vibrational perspectives. But the methodology is adaptable to any environment — rivers, coastlines, urban corridors. What I'm most excited about is the potential for student involvement at every stage: field recording campaigns, sensor data collection, web development, and physical installation design. This kind of project creates natural entry points for undergraduates across music technology, computer science, and art.
 -->
 
 ---
