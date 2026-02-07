@@ -289,6 +289,10 @@ layout: default
 Exploring Walks
 </div>
 
+<!--
+The discover page lets users browse nearby sound walks. Each walk is a series of stops where the creator answered survey questions about the perceived restorativeness of that place — based on Payne's Perceived Restorativeness Soundscape Scale. Those survey responses drive the sonification you hear when you visit the stop.
+-->
+
 ---
 layout: default
 ---
@@ -300,7 +304,7 @@ Listening to a Walk
 </div>
 
 <!--
-The app focuses on restoration of attention and ecological awareness by encouraging mindful listening and outdoor experiences.
+When you arrive at a stop, the app sonifies the restorativeness data as wind chimes tuned to La Monte Young's Well Tuned Piano tuning. Lower restorativeness scores produce more intense, dissonant chimes; higher scores are calmer and more consonant. Wind and nature samples layer underneath, also mapped to the survey data. All user data is stored on IPFS using decentralized identity — no central server, no attention economy platform.
 -->
 
 
@@ -485,7 +489,7 @@ layout: default
 </div>
 
 <!--
-Resonant Landscapes concert poster
+The concert was held at the Madison Area Arts Council in spring 2024. I shared the ambisonic field recordings from the state parks with faculty and students and invited them to compose new works using the material. The idea was to extend the project beyond the app and see what other creative responses the recordings could generate.
 -->
 
 ---
@@ -505,7 +509,7 @@ align: l-cm-cm
 <img src="/images/rl-concert/daniel.png" class="w-full rounded" />
 
 <!--
-Faculty colleagues Daniel and Kayla also composed works for the concert using the ambisonic field recordings from the state parks.
+Here I'm introducing the concert theme. On the right, Daniel, a faculty colleague in music, composed a piece that layered the ambisonic recordings with live electronics. Having faculty from different areas engage with the same source material showed how the project could serve as a shared creative resource across disciplines.
 -->
 
 ---
@@ -515,7 +519,7 @@ backgroundSize: contain
 ---
 
 <!--
-Kayla performing her composition at the Madison Area Arts Council concert.
+Kayla, another faculty colleague, performing her composition. Three faculty members and one undergraduate student composed pieces for the concert — each taking a very different approach to the same source recordings.
 -->
 
 ---
