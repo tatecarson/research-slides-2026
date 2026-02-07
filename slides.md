@@ -69,7 +69,7 @@ layout: default
 | Resonant Landscapes | 2023-Present |
 
 <!--
-I'll give an overview of the progression of my work over the past few years. These works have explored different aspects of mobile music and locative sound art, and have built on each other to create a body of work that explores the potential of the smartphone as an artistic platform. [PACING: Past works (next ~20 slides) should take ~20 min total. Keep momentum — the current/future work is what the committee wants to hear most.]
+I'll give an overview of the progression of my work over the past few years. These works have explored different aspects of mobile music and locative sound art, and have built on each other to create a body of work that explores the potential of the smartphone as an artistic platform. [PACING: Past works (next ~20 slides) should take ~25 min total. Keep momentum — the current/future work is what the committee wants to hear most.]
 -->
 
 ---
@@ -106,7 +106,7 @@ url: https://www.youtube.com/embed/es_4M9t9K-4?si=N1-zD5QbFOD85nhW&start=330
 ---
 
 <!--
-A performance at Mills College in 2017. [VIDEO: Play ~1:00 starting at 5:30 — the climax section. Skip ahead if needed to stay on time.]
+A performance at Mills College in 2017. [VIDEO: Play ~2:00 starting at 5:30 — the climax section. Skip ahead if needed to stay on time.]
 -->
 
 ---
@@ -141,7 +141,7 @@ url: https://player.vimeo.com/video/267062963
 ---
 
 <!--
-This is a performance version of the work that took place at LSU Museum of Art on March 4, 2018. [VIDEO: Play ~1:00 — enough to show the audience interaction and smartphone speaker array in action.]
+This is a performance version of the work that took place at LSU Museum of Art on March 4, 2018. [VIDEO: Play ~1:30 — enough to show the audience interaction and smartphone speaker array in action.]
 -->
 
 ---
@@ -220,7 +220,7 @@ url: https://www.youtube.com/embed/_WQHdGdvO2E
 ---
 
 <!--
-Here's a video of the piece in action. The video shows a group of people playing the game, interacting with each other. [VIDEO: Play ~1:00 — show the social interaction and gyroscope gameplay.]
+Here's a video of the piece in action. The video shows a group of people playing the game, interacting with each other. [VIDEO: Play ~1:30 — show the social interaction and gyroscope gameplay.]
 -->
 
 ---
@@ -368,7 +368,7 @@ url: https://player.vimeo.com/video/414630388
 ---
 
 <!--
-A short demo of myself using the app. [VIDEO: Play ~0:45 — show the camera interaction triggering sound changes.]
+A short demo of myself using the app. [VIDEO: Play ~1:30 — show the camera interaction triggering sound changes.]
 -->
 
 ---
@@ -553,7 +553,7 @@ Multi-channel piece exploring geophonic and biophonic sounds
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1833817539&color=%233c7494&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <!--
-The work I composed for this concert was a multi-channel fixed media piece, "Veins of the Earth," which explores geophonic and biophonic sounds to evoke a sense of connection between natural environments and the life they sustain. [AUDIO: Play ~0:30 excerpt — just enough to give the texture. Move on quickly to Current Research.]
+The work I composed for this concert was a multi-channel fixed media piece, "Veins of the Earth," which explores geophonic and biophonic sounds to evoke a sense of connection between natural environments and the life they sustain. [AUDIO: Play ~1:00 excerpt — let the texture develop before moving to Current Research.]
 -->
 
 ---
@@ -564,7 +564,7 @@ color: navy
 # Current Research
 
 <!--
-[PACING CHECK: You should be at roughly the 20-minute mark here. ~15 min remain for MatchLab, Drift, and Future Directions before Q&A at ~40 min. Slow down — this is the most important section.]
+[PACING CHECK: You should be at roughly the 25-minute mark here. ~20 min remain for MatchLab, Drift, and Future Directions before Q&A at ~45 min. Slow down — this is the most important section.]
 -->
 
 ---
@@ -588,7 +588,7 @@ titlewidth: is-4
 - Undergraduate research interns: Owen and Calvin (16-week HCI internship)
 
 <!--
-MatchLab is a plugin for semantic sound search. It lets sound designers search, discover, and modify sounds based on how they describe them or by similarity to a reference audio. It runs locally and integrates with digital audio workstations. Owen and Calvin, two undergraduate students, are working on a 16-week HCI research internship to ground the design in real professional workflows — conducting competitive analysis, user interviews, and building annotated test datasets. [PACING: Spend ~4 min on this slide and the next — emphasize the student mentorship and publication trajectory.]
+MatchLab is a plugin for semantic sound search. It lets sound designers search, discover, and modify sounds based on how they describe them or by similarity to a reference audio. It runs locally and integrates with digital audio workstations. Owen and Calvin, two undergraduate students, are working on a 16-week HCI research internship to ground the design in real professional workflows — conducting competitive analysis, user interviews, and building annotated test datasets. [PACING: Spend ~5 min on this slide and the next — emphasize the student mentorship and publication trajectory.]
 -->
 
 ---
@@ -652,7 +652,7 @@ titlewidth: is-4
 White noise machines reimagined as networked, resonant instruments
 
 <!--
-Drift is a sculptural sound art project grounded in Mack Hagood's theory of Orphic Media — technologies designed to modify sensory perception and shape experience. White noise machines are a prime example: devices people use to control their sonic environment. Drift reconceptualizes this technology as a platform for creative expression, building sculptures that slowly shift from noise toward emergent musical patterns. The work invites deep listening and asks: what happens when we relinquish sonic self-control? Collaboration with Tim Murray (sculpture and fabrication) and funded through a DSU Faculty Research Initiative grant. [PACING: Spend ~5 min across the three Drift slides — this is funded, in-progress work. Let the fabrication photos breathe.]
+Drift is a sculptural sound art project grounded in Mack Hagood's theory of Orphic Media — technologies designed to modify sensory perception and shape experience. White noise machines are a prime example: devices people use to control their sonic environment. Drift reconceptualizes this technology as a platform for creative expression, building sculptures that slowly shift from noise toward emergent musical patterns. The work invites deep listening and asks: what happens when we relinquish sonic self-control? Collaboration with Tim Murray (sculpture and fabrication) and funded through a DSU Faculty Research Initiative grant. [PACING: Spend ~7 min across the three Drift slides — this is funded, in-progress work. Let the fabrication photos breathe.]
 -->
 
 ---
@@ -730,7 +730,7 @@ titlewidth: is-4
 *Example: Above and Below — a proposed year-long soundmap of the Big Sioux River using this approach*
 
 <!--
-My research is moving toward place-based sound art that documents specific ecologies over extended time periods. The approach pairs digital and physical outputs — interactive web-based soundmaps alongside sculptural installations with embedded speakers and proximity sensors. A current example is Above and Below, a proposed year-long documentation of the Big Sioux River Greenway using stereo, hydrophone, and contact microphones to capture above-water, underwater, and vibrational perspectives. But the methodology is adaptable to any environment — rivers, coastlines, urban corridors. What I'm most excited about is the potential for student involvement at every stage: field recording campaigns, sensor data collection, web development, and physical installation design. This kind of project creates natural entry points for undergraduates across music technology, computer science, and art. [PACING: ~3 min here — end on the vision. You should be at ~35 min, leaving ~25 min for Q&A.]
+My research is moving toward place-based sound art that documents specific ecologies over extended time periods. The approach pairs digital and physical outputs — interactive web-based soundmaps alongside sculptural installations with embedded speakers and proximity sensors. A current example is Above and Below, a proposed year-long documentation of the Big Sioux River Greenway using stereo, hydrophone, and contact microphones to capture above-water, underwater, and vibrational perspectives. But the methodology is adaptable to any environment — rivers, coastlines, urban corridors. What I'm most excited about is the potential for student involvement at every stage: field recording campaigns, sensor data collection, web development, and physical installation design. This kind of project creates natural entry points for undergraduates across music technology, computer science, and art. [PACING: ~4 min here — end on the vision. You should be at ~45 min, leaving ~15 min for Q&A.]
 -->
 
 ---
