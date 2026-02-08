@@ -413,20 +413,6 @@ You can see in this picture all of the state parks we recorded at. Carter was in
 
 ---
 layout: default
----
-
-<div class="flex flex-col justify-center items-center h-full">
-<img src="/images/rl-screenshots.png" class="max-h-120 rounded" />
-
-User Interactions
-</div>
-
-<!--
-Resonant Landscapes' audience webpage provides an interactive campus map with marked "listening spots" that correspond to state park locations. Users experience audio playback within 15-meter radius zones, with volume increasing as they approach centers. Visual feedback includes falling leaves animation that speeds up with proximity. The app uses smartphone sensors for body-oriented tracking.
--->
-
----
-layout: default
 color: indigo
 ---
 
@@ -440,6 +426,22 @@ color: indigo
 <!--
 The South Dakota state parks are projected onto DSU campus, creating a scaled, walkable geography. Because the app triggers field recordings at specific GPS coordinates, it blends natural soundscapes with real-time urban environments, creating a hybrid place. Encourages embodied listening. Informed by sound art, soundwalking, and soundscape studies.
 -->
+
+
+---
+layout: default
+---
+
+<div class="flex flex-col justify-center items-center h-full">
+<img src="/images/rl-screenshots.png" class="max-h-120 rounded" />
+
+User Interactions
+</div>
+
+<!--
+Resonant Landscapes' audience webpage provides an interactive campus map with marked "listening spots" that correspond to state park locations. Users experience audio playback within 15-meter radius zones, with volume increasing as they approach centers. Visual feedback includes falling leaves animation that speeds up with proximity. The app uses smartphone sensors for body-oriented tracking.
+-->
+
 
 ---
 layout: default
