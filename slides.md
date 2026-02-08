@@ -106,7 +106,7 @@ url: https://www.youtube.com/embed/es_4M9t9K-4?si=N1-zD5QbFOD85nhW&start=330
 ---
 
 <!--
-A performance at Mills College in 2017. [VIDEO: Play ~2:00 starting at 5:30 — the climax section. Skip ahead if needed to stay on time.]
+A performance at Mills College in 2017. [VIDEO: Play ~5:00-7:00 starting at the beginning. Skip ahead if needed to stay on time.]
 -->
 
 ---
@@ -555,7 +555,7 @@ Multi-channel piece exploring geophonic and biophonic sounds
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1833817539&color=%233c7494&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <!--
-The work I composed for this concert was a multi-channel fixed media piece, "Veins of the Earth," which explores geophonic and biophonic sounds to evoke a sense of connection between natural environments and the life they sustain. [AUDIO: Play ~1:00 excerpt — let the texture develop before moving to Current Research.]
+The work I composed for this concert was a multi-channel fixed media piece, "Veins of the Earth," which explores geophonic and biophonic sounds to evoke a sense of connection between natural environments and the life they sustain. [AUDIO: Play ~5:00-7:00 excerpt — let the texture develop before moving to Current Research.]
 -->
 
 ---
