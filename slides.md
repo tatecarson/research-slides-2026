@@ -69,7 +69,7 @@ layout: default
 | Resonant Landscapes | 2023-Present |
 
 <!--
-I'll give an overview of the progression of my work over the past few years. These works have explored different aspects of mobile music and locative sound art, and have built on each other to create a body of work that explores the potential of the smartphone as an artistic platform. [PACING: Past works (next ~20 slides) should take ~25 min total. Keep momentum — the current/future work is what the committee wants to hear most.]
+I'll give an overview of the progression of my work over the past few years. These works have explored different aspects of mobile music and locative sound art, and have built on each other to create a body of work that explores the potential of the smartphone as an artistic platform. [PACING: Past works (next ~20 slides) should take ~28 min total (includes ~4:30 each for "And the water receded" and "Veins of the Earth"). Keep momentum — the current/future work is what the committee wants to hear most.]
 -->
 
 ---
@@ -106,7 +106,7 @@ url: https://www.youtube.com/embed/es_4M9t9K-4?si=N1-zD5QbFOD85nhW&start=330
 ---
 
 <!--
-A performance at Mills College in 2017. [VIDEO: Play ~5:00-7:00 starting at the beginning. Skip ahead if needed to stay on time.]
+A performance at Mills College in 2017. [VIDEO: Play ~4:30 — start at the beginning, skip ahead if needed to stay on time.]
 -->
 
 ---
@@ -555,7 +555,7 @@ Multi-channel piece exploring geophonic and biophonic sounds
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1833817539&color=%233c7494&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <!--
-The work I composed for this concert was a multi-channel fixed media piece, "Veins of the Earth," which explores geophonic and biophonic sounds to evoke a sense of connection between natural environments and the life they sustain. [AUDIO: Play ~5:00-7:00 excerpt — let the texture develop before moving to Current Research.]
+The work I composed for this concert was a multi-channel fixed media piece, "Veins of the Earth," which explores geophonic and biophonic sounds to evoke a sense of connection between natural environments and the life they sustain. [AUDIO: Play ~4:30 excerpt — let the texture develop before moving to Current Research.]
 -->
 
 ---
@@ -566,7 +566,7 @@ color: navy
 # Current Research
 
 <!--
-[PACING CHECK: You should be at roughly the 25-minute mark here. ~20 min remain for MatchLab, Drift, and Future Directions before Q&A at ~45 min. Slow down — this is the most important section.]
+[PACING CHECK: You should be at roughly the 30-minute mark here. ~20 min remain for MatchLab, Drift, and Future Directions before Q&A at ~50 min. Slow down — this is the most important section.]
 -->
 
 ---
@@ -732,7 +732,7 @@ titlewidth: is-4
 *Example: Above and Below — a proposed year-long soundmap of the Big Sioux River using this approach*
 
 <!--
-My research is moving toward place-based sound art that documents specific ecologies over extended time periods. The approach pairs digital and physical outputs — interactive web-based soundmaps alongside sculptural installations with embedded speakers and proximity sensors. A current example is Above and Below, a proposed year-long documentation of the Big Sioux River Greenway using stereo, hydrophone, and contact microphones to capture above-water, underwater, and vibrational perspectives. But the methodology is adaptable to any environment — rivers, coastlines, urban corridors. What I'm most excited about is the potential for student involvement at every stage: field recording campaigns, sensor data collection, web development, and physical installation design. This kind of project creates natural entry points for undergraduates across music technology, computer science, and art. [PACING: ~4 min here — end on the vision. You should be at ~45 min, leaving ~15 min for Q&A.]
+My research is moving toward place-based sound art that documents specific ecologies over extended time periods. The approach pairs digital and physical outputs — interactive web-based soundmaps alongside sculptural installations with embedded speakers and proximity sensors. A current example is Above and Below, a proposed year-long documentation of the Big Sioux River Greenway using stereo, hydrophone, and contact microphones to capture above-water, underwater, and vibrational perspectives. But the methodology is adaptable to any environment — rivers, coastlines, urban corridors. What I'm most excited about is the potential for student involvement at every stage: field recording campaigns, sensor data collection, web development, and physical installation design. This kind of project creates natural entry points for undergraduates across music technology, computer science, and art. [PACING: ~4 min here — end on the vision. You should be at ~50 min, leaving ~10 min for Q&A.]
 -->
 
 ---
